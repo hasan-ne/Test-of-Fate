@@ -1,9 +1,14 @@
-# Test-of-Fate
+### Test-of-Fate
 
-It is dual player game . One is red player other is blue player. Both are trapped in a dungeon . Only one can escape from here. But for this you have to do some great stuff. Let's see the rules -
+It is dual player game . One is red player other is blue player. Both are trapped in a dungeon . Only one can escape from here. But for this you have to do some great stuff. 
 
+---
+
+### Rules -
+```
 At first the intro will pop up.
-To  move forward PRESS => Enter key
+
+To  move forward **PRESS Enter key**
 
 1. There are two teams - red , blue
 2. For each team there will be a winning combination of head. ( like: up down down up down . Up means head up , down means head down ).
@@ -18,8 +23,27 @@ To  move forward PRESS => Enter key
 9. The first team to match the winning combination of heads wins.
 
 
+
+```
+--------
+### Controls:
+```
 To move forward in intro => Press Enter
 To roll the dices => Press Enter
 To shuffle the heads => mouse left click on the heads.
+```
+-----
 
-Hope you will have a nice game experience. Enjoy!
+### Video Guideline:
+
+[▶ Watch on YouTube](https://youtu.be/bTfSIINyulw)
+
+-------
+
+### Contributors:
+- Mahmudul Hasan
+- Noman Bin Morshed
+- Md. Masum
+- Farhan Labib
+
+
